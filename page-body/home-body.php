@@ -44,7 +44,6 @@
                 </span>
             </button>
         </div>
-
         <!-- Banner Section End-->
 
         <!-- video Section Start-->
@@ -58,7 +57,7 @@
                     <div class="py-6 mb-4 lg:mx-44 md:mx-24 nav-txt ring-4 ring-emerald-500 italic uppercase lg:font-extrabold">
                         <center>
                             <h1 class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0">
-                                Valor of Bangladesh Presents STRATEGY SUMMIT 2022</h1>
+                                Valor of Bangladesh Presents CXO SUMMIT 2022</h1>
                         </center>
                     </div>
                 </div>
@@ -66,7 +65,7 @@
                     <center>
                         <h1 class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0 py-3">Program starts in</h1>
                         <div class="custom-count-control">
-                             <script class="eca65e30de7bf0be52789d3dd040ee12" src="https://w.promofeatures.com/js/timer/eca65e30de7bf0be52789d3dd040ee12.js?v=1661424869"></script>
+                            <script class="eca65e30de7bf0be52789d3dd040ee12" src="https://w.promofeatures.com/js/timer/eca65e30de7bf0be52789d3dd040ee12.js?v=1661424869"></script>
                         </div>
                     </center>
 
@@ -96,8 +95,7 @@
                             <img alt="content" class="object-cover object-center h-full w-full" src="./assets/images/gallery/resize (2).jpg">
                         </div>
                         <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Date & Time</h2>
-                        <p class="lg:text-4xl md:text-2xl text-2xl font-extrabold leading-relaxed mt-2">6th August,
-                            2022</p>
+                        <p class="lg:text-4xl md:text-2xl text-2xl font-extrabold leading-relaxed mt-2">3rd December, 2022</p>
                         <span class="text-xl font-bold">From 09:00am to 06:00pm</span>
                     </div>
 
@@ -118,7 +116,7 @@
         <!-- video Section End-->
 
         <!-- Box Section Start -->
-        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-4 mb-2">
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-4 mb-2" style="background-image: url('./assets/images/gallery/bg5.jpg'); background-size: cover; height:450px; padding-top:0px;">
             <article>
                 <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900"> Get The Brochure
                     and Schedule
@@ -134,7 +132,7 @@
                             <h3 class="text-center">
                                 <a href="../assets/files/SS1p.pdf" class="text-white text-2xl font-bold text-center" href="#">
                                     <span class="absolute inset-0"></span>
-                                    Click to Download <br> <br> Strategy Summit Brouchure
+                                    Click to Download <br> <br> CXO Summit '22 Brouchure
                                 </a>
                             </h3>
                         </div>
@@ -181,12 +179,12 @@
         <section class="text-gray-600 body-font">
             <div id="participants" class="container px-5 py-10 mx-auto">
                 <div class="mb-8">
-                    <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900">JOIN THE
-                        BIGGEST EVENT OF THE YEAR!
+                    <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900">EXPERIENCE THE MEGA CORPORATE EVENT OF THE YEAR!!!
                     </h1>
-                    <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center">Meet the leading Industry icons and take a look at what our Experts have to say about Strategy Summit 2022.</p>
+                    <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center">Experience the foremost strategies for understanding the line of reasoning in the context of corporate sustainability.
+                    </p>
                 </div>
-                <div class="flex flex-wrap -mx-4 -mb-10 text-center">
+                <div class="flex flex-wrap -mx-4 -mb-5 text-center">
                     <div class="sm:w-full mb-10 px-4">
                         <div class="rounded-lg h-64 overflow-hidden">
                             <img alt="content" class="object-cover ml-24 lg:ml-72 md:ml-52 object-center h-full w-2/4" src="../assets/images/logo/WEBISTE-1.jpg">
@@ -200,39 +198,64 @@
                         <button type="submit" class="inline-flex text-white bg-indigo-500 border-0 mt-2 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                             <a target="_self" href="/registration-1.php">Register As A Participant</a></button>
                     </div>
-                    <!--<div class="sm:w-1/2 mb-10 px-4">-->
-                    <!--    <div class="rounded-lg h-64 overflow-hidden">-->
-                    <!--        <img alt="content" class="object-cover object-center h-full w-full"-->
-                    <!--            src="../assets/images/logo/WEBSITE-2.jpg">-->
-                    <!--    </div>-->
-                    <!--    <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Into the Pages of History-->
-                    <!--    </h2>-->
-                    <!--    <p class="leading-relaxed text-base">Organizations are a dime a day currently. However, there-->
-                    <!--        are-->
-                    <!--        only a few-->
-                    <!--        that can stand out and receive unparalleled fame. Register today to enter your organization-->
-                    <!--        into-->
-                    <!--        the-->
-                    <!--        hall of supremacy.</p>-->
-                    <!--    <span-->
-                    <!--        class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500 text-3xl font-extrabold">Reg.-->
-                    <!--        Fees: BDT 70,000/-</span>-->
-                    <!--    <br>-->
-                    <!--    <button type="submit"-->
-                    <!--        class="inline-flex text-white bg-indigo-500 border-0 mt-2 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">-->
-                    <!--        <a href="/registration-2.php" target="_self">Register As An Organization</a></button>-->
-                    <!--</div>-->
                 </div>
             </div>
         </section>
         <!-- registration part -->
 
+        <!-- Single Panel Part Start -->
+        <section class="text-gray-600 body-font overflow-hidden">
+            <div class="container px-5 py-10 mx-auto">
+                <div class="mb-8">
+                    <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900">Discover the minds behind the enhancement you will be witnessing at our event!
+                    </h1>
+                    <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center">
+                        The CXO Summit 2022 provides a forum for senior corporate executives to come together, exchange knowledge, and look for solutions.
+
+                    </p>
+                </div>
+                <div class="lg:w-2/6 mx-auto flex flex-wrap">
+                    <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (1).jpg">
+                    <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+                        <h2 class="text-sm title-font text-gray-500 tracking-widest">BRAND NAME</h2>
+
+                        <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">The Catcher in the Rye</h1>
+
+                        <p class="leading-relaxed">Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn. Everyday carry +1 seitan poutine tumeric. Gastropub blue bottle austin listicle pour-over, neutra jean shorts keytar banjo tattooed umami cardigan.</p>
+                    </div>
+                </div>
+                <div class="flex flex-row" style="background-image: url('./assets/images/gallery/bg1.jpg'); background-size: cover; height:850px; padding-top:0px;">
+                    <div class="lg:w-2/6 mx-auto flex flex-wrap">
+                        <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (3).jpg">
+                        <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+                            <h2 class="text-sm title-font text-gray-500 tracking-widest">BRAND NAME</h2>
+
+                            <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">The Catcher in the Rye</h1>
+
+                            <p class="leading-relaxed">Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn. Everyday carry +1 seitan poutine tumeric. Gastropub blue bottle austin listicle pour-over, neutra jean shorts keytar banjo tattooed umami cardigan.</p>
+                        </div>
+                    </div>
+                    <div class="lg:w-2/6 mx-auto flex flex-wrap">
+                        <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (2).jpg">
+                        <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+                            <h2 class="text-sm title-font text-gray-500 tracking-widest">BRAND NAME</h2>
+
+                            <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">The Catcher in the Rye</h1>
+
+                            <p class="leading-relaxed">Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn. Everyday carry +1 seitan poutine tumeric. Gastropub blue bottle austin listicle pour-over, neutra jean shorts keytar banjo tattooed umami cardigan.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Single Panel Part Stop -->
+
         <!-- Panel Update Start-->
         <section class="text-gray-600 body-font" id="panelist">
             <div class="container px-5 py-10 mx-auto">
                 <div class="flex flex-col text-center w-full mb-8">
-                    <h1 class="sm:text-4xl text-2xl font-medium title-font mb-4 text-gray-900">Meet The Panelists</h1>
-                    <p class="lg:w-2/3 mx-auto leading-relaxed text-base italic">"Meet the honorable panelists of the day long event of Cancer SUmmit 2022. Hear from our Trustee Board of BANCAT about the BANCAT initiative on "Alok Nibash" and The Cancer Summit 2022"</p>
+                    <h1 class="sm:text-4xl text-2xl font-medium title-font mb-4 text-gray-900">Meet The Trustees</h1>
+                    <p class="lg:w-2/3 mx-auto leading-relaxed text-base italic">Hear from our Trustee Board to see what they have to say about CXO Summit 2022</p>
                     <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12">
                         <div class="w-3/4 h-full bg-indigo-500"></div>
                     </div>
@@ -445,7 +468,7 @@
         <!-- Event Schedule Start-->
         <section class="overflow-hidden text-gray-700 pt-4 pb-8">
             <div class="flex flex-col text-center w-full mb-12">
-                <h1 class="text-3xl font-medium title-font mb-4 text-gray-900">30 th September Friday (one day) Pre-final program schedule</h1>
+                <h1 class="text-3xl font-medium title-font mb-4 text-gray-900">CXO SUMMIT 2022 (one day) Program Schedule</h1>
             </div>
             <div class="py-5 px-5 container text-center mx-auto">
 
@@ -580,6 +603,6 @@
         </section>
         <!-- extra gallery section -->
 
-        <?php include(ROOT.'/chunks/contact_us.php'); ?>
+        <?php include(ROOT . '/chunks/contact_us.php'); ?>
 
 </main>
