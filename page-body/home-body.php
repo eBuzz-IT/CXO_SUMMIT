@@ -122,7 +122,7 @@
                     and Schedule
                 </h1>
                 <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center">Click on the images to download
-                    Brochure, Event Schedule and stay Updated for the STRATEGY SUMMIT 2022!</p>
+                    Brochure, Event Schedule and stay Updated for the CXO SUMMIT 2022!</p>
                 <section class="mt-6 grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-x-6 gap-y-8 justify-center">
                     <article></article>
                     <article class="relative w-full h-64 bg-cover bg-center group rounded-lg overflow-hidden shadow-lg hover:shadow-2xl  transition duration-300 ease-in-out" style="background-image: url('../assets/images/logo/Strategy Summit 2022.jpg');">
@@ -149,28 +149,7 @@
                             </h3>
                         </div>
                     </article>
-                    <article></article>
-                    <!--<article-->
-                    <!--    class="relative w-full h-64 bg-cover bg-center group rounded-lg overflow-hidden shadow-lg hover:shadow-2xl  transition duration-300 ease-in-out"-->
-                    <!--    style="background-image: url('../assets/images/gallery/interstellar.jpg');">-->
-                    <!--    <div-->
-                    <!--        class="absolute inset-0 bg-black bg-opacity-50 group-hover:opacity-75 transition duration-300 ease-in-out">-->
-                    <!--    </div>-->
-                    <!--    <div class="relative w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center">-->
-                    <!--        <h3 class="text-center">-->
-                    <!--            <a href="../assets/files/Brochure Intersteller.pdf"-->
-                    <!--                class="text-white text-2xl font-bold text-center" href="#">-->
-                    <!--                <span class="absolute inset-0"></span>-->
-                    <!--                Click to Download <br> <br> Leadership Magazine Brochure-->
-                    <!--            </a>-->
-                    <!--        </h3>-->
-                    <!--    </div>-->
-                    <!--</article>-->
                 </section>
-
-                <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12">
-                    <div class="w-2/4 h-full bg-indigo-500"></div>
-                </div>
             </article>
         </section>
         <!-- Box Section End -->
@@ -203,7 +182,7 @@
         </section>
         <!-- registration part -->
 
-        <!-- Single Panel Part Start -->
+        <!-- Single Trustee Part Start -->
         <section class="text-gray-600 body-font overflow-hidden">
             <div class="container px-5 py-10 mx-auto">
                 <div class="mb-8">
@@ -211,50 +190,55 @@
                     </h1>
                     <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center">
                         The CXO Summit 2022 provides a forum for senior corporate executives to come together, exchange knowledge, and look for solutions.
-
                     </p>
                 </div>
-                <div class="lg:w-2/6 mx-auto flex flex-wrap">
+                <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12">
+                        <div class="w-1/4 h-full bg-indigo-500"></div>
+                </div>
+                <div class="lg:w-2/5 mx-auto flex flex-wrap mt-5">
                     <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (1).jpg">
-                    <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
-                        <h2 class="text-sm title-font text-gray-500 tracking-widest">BRAND NAME</h2>
+                    <div class="lg:w-3/4 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+                        <h2 class="text-sm title-font text-gray-500 tracking-widest">Chairman, Valor of Bangladesh</h2>
 
-                        <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">The Catcher in the Rye</h1>
+                        <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">Mr. Anis A. Khan</h1>
 
-                        <p class="leading-relaxed">Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn. Everyday carry +1 seitan poutine tumeric. Gastropub blue bottle austin listicle pour-over, neutra jean shorts keytar banjo tattooed umami cardigan.</p>
+                        <p class="leading-relaxed text-justify">Mr. Khan is a retired professional banker with 38 years of experience striving to change, expand and diversify organizations he works with. He has established the country’s largest foreign bank; The Standard Chartered Bank. He has had 37 years of experience and training in banking, capital markets, management, and leadership practices. He joined Mutual Trust Bank Limited (MTB) on April 15, 2009, as the Group Managing Director & CEO, and has retired on November 30, 2019 having reached the statutory retirement age. MTB, under his leadership for over ten years, has achieved a leading position in the business arena. Mr. Khan is currently the Vice President of the country’s pre-eminent Metropolitan Chamber of Commerce and Industry, Dhaka (MCCI).</p>
                     </div>
                 </div>
-                <div class="flex flex-row" style="background-image: url('./assets/images/gallery/bg1.jpg'); background-size: cover; height:850px; padding-top:0px;">
+                <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12 mb-5">
+                        <div class="w-2/4 h-full bg-indigo-500"></div>
+                </div>
+                <div class="flex flex-row" style="background-image: url('./assets/images/gallery/bg1.jpg'); background-size: cover; height:950px; padding-top:0px;">
                     <div class="lg:w-2/6 mx-auto flex flex-wrap">
                         <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (3).jpg">
                         <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
-                            <h2 class="text-sm title-font text-gray-500 tracking-widest">BRAND NAME</h2>
+                            <h2 class="text-sm title-font text-gray-500 tracking-widest">Communication Director, Valor of Bangladesh</h2>
 
-                            <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">The Catcher in the Rye</h1>
+                            <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">Mahzabin Ferdous</h1>
 
-                            <p class="leading-relaxed">Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn. Everyday carry +1 seitan poutine tumeric. Gastropub blue bottle austin listicle pour-over, neutra jean shorts keytar banjo tattooed umami cardigan.</p>
+                            <p class="leading-relaxed text-justify">Mahzabin Ferdous started her journey in brand development and client management in advertising, Mahzabin also holds direct experience working with the transformation of IPDC. She is the Co-Founder of Daruchini and the Executive Director of CONCITO PR. Her current role is to develop, implement and monitor the communication for her new venture CThreeSixty which is a Singapore based collaboration firm that adopts global practices to deliver communications and marketing solutions to the partners.</p>
                         </div>
                     </div>
                     <div class="lg:w-2/6 mx-auto flex flex-wrap">
                         <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (2).jpg">
                         <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
-                            <h2 class="text-sm title-font text-gray-500 tracking-widest">BRAND NAME</h2>
+                            <h2 class="text-sm title-font text-gray-500 tracking-widest">Executive Director, Valor of Bangladesh</h2>
 
-                            <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">The Catcher in the Rye</h1>
+                            <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">Najmus Ahmed Albab</h1>
 
-                            <p class="leading-relaxed">Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn. Everyday carry +1 seitan poutine tumeric. Gastropub blue bottle austin listicle pour-over, neutra jean shorts keytar banjo tattooed umami cardigan.</p>
+                            <p class="leading-relaxed text-justify">Mr. Albab is an entrepreneur and public speaker who has been the Founder and CEO of Lighthouse Bangladesh since 2014. He has 25 years of experience in Readymade Garments manufacturing, Supply chain operation and distribution, and Entrepreneurial leadership. He is a Freelance Activist, counselor, Author, and Founder of Bangladesh Cancer Aid Trust.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Single Panel Part Stop -->
+        <!-- Single Trustee Part Stop -->
 
         <!-- Panel Update Start-->
         <section class="text-gray-600 body-font" id="panelist">
             <div class="container px-5 py-10 mx-auto">
                 <div class="flex flex-col text-center w-full mb-8">
-                    <h1 class="sm:text-4xl text-2xl font-medium title-font mb-4 text-gray-900">Meet The Trustees</h1>
+                    <h1 class="sm:text-4xl text-3xl font-medium title-font mb-4 text-gray-900">Meet The Trustees</h1>
                     <p class="lg:w-2/3 mx-auto leading-relaxed text-base italic">Hear from our Trustee Board to see what they have to say about CXO Summit 2022</p>
                     <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12">
                         <div class="w-3/4 h-full bg-indigo-500"></div>
@@ -363,7 +347,7 @@
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Co-founder
                                     & MD CThreeSixty, Executive Director-Concito PR
                                 </h2>
-                                <p class="leading-relaxed mb-3 text-justify">"Strategy Summit 2022 brings together the international institutions, government entities, business chambers, private organizations, academia, and NGOs in order to foster a Transforming Bangladesh."
+                                <p class="leading-relaxed mb-3 text-justify">"CXO Summit 2022 brings together the international institutions, government entities, business chambers, private organizations, academia, and NGOs in order to foster a Transforming Bangladesh."
                                 </p>
                             </div>
                         </div>
@@ -555,46 +539,46 @@
                 <div class="flex flex-wrap -m-1 md:-m-2">
                     <div class="flex flex-wrap w-1/2">
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (1).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (1).jpg">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (2).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (2).jpg">
                         </div>
                         <div class="w-full p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (3).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (3).jpg">
                         </div>
                     </div>
                     <div class="flex flex-wrap w-1/2">
                         <div class="w-full p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (4).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (4).jpg">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (5).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (9).jpg">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (6).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (6).jpg">
                         </div>
                     </div>
                     <div class="flex flex-wrap w-1/2">
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (10).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (10).jpg">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (11).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (11).jpg">
                         </div>
                         <div class="w-full p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (12).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (12).jpg">
                         </div>
                     </div>
                     <div class="flex flex-wrap w-1/2">
                         <div class="w-full p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (9).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (5).jpg">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (7).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (7).jpg">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (8).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (8).jpg">
                         </div>
                     </div>
                 </div>
