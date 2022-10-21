@@ -153,7 +153,7 @@ html, body {
       font-weight: bold;
   }
   .eBuzz-it:hover{
-    color: rgba(217,119,6);
+    color: rgba(5, 148, 145);
   }
   .accordion {
     background-color: #eee;
@@ -199,8 +199,22 @@ html, body {
       width: 100%;
       height: 100%;
   }
-  .nav-txt{
+ .nav-txt{
     background: linear-gradient(to right, #240272 0%, #0ab998 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+
+  .custom-nav-1{
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+  }
+  /* .custom-nav-1 img{
+    width: 120px;
+  } */
+  /* .banner-custom-image {
+    object-fit: contain !important;
+    width: 100%;
+    height: 100%;
+  } */
