@@ -185,8 +185,8 @@
         </section>
         <!-- registration part -->
 
-        <!-- Single Trustee Part Start -->
-        <section class="text-gray-600 body-font overflow-hidden">
+         <!-- Duo Trustee Part-1 Start -->
+         <section class="text-gray-600 body-font overflow-hidden">
             <div class="container px-5 py-10 mx-auto">
                 <div class="mb-8">
                     <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900">Discover the minds behind the enhancement you will be witnessing at our event!
@@ -195,21 +195,40 @@
                         The CXO Summit 2022 provides a forum for senior corporate executives to come together, exchange knowledge, and look for solutions.
                     </p>
                 </div>
-                <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12">
+                <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-6 mb-6">
                     <div class="w-1/4 h-full bg-indigo-500"></div>
                 </div>
-                <div class="lg:w-2/5 mx-auto flex flex-wrap mt-5">
-                    <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (1).jpg">
-                    <div class="lg:w-3/4 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
-                        <h2 class="text-sm title-font text-gray-500 tracking-widest">Chairman, Valor of Bangladesh</h2>
+                <div class="flex flex-row" style="background-image: url('./assets/images/gallery/bg6.jpg'); background-size: cover; height:950px; padding-top:0px;">
+                    <div class="lg:w-2/6 mx-auto flex flex-wrap">
+                        <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (1).jpg">
+                        <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+                            <h2 class="text-sm title-font text-gray-500 tracking-widest">Chairman, Valor of Bangladesh</h2>
 
-                        <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">Mr. Anis A. Khan</h1>
+                            <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">Anis A. Khan</h1>
 
-                        <p class="leading-relaxed text-justify">Mr. Khan is a retired professional banker with 38 years of experience striving to change, expand and diversify organizations he works with. He has established the country’s largest foreign bank; The Standard Chartered Bank. He has had 37 years of experience and training in banking, capital markets, management, and leadership practices. He joined Mutual Trust Bank Limited (MTB) on April 15, 2009, as the Group Managing Director & CEO, and has retired on November 30, 2019 having reached the statutory retirement age. MTB, under his leadership for over ten years, has achieved a leading position in the business arena. Mr. Khan is currently the Vice President of the country’s pre-eminent Metropolitan Chamber of Commerce and Industry, Dhaka (MCCI).</p>
+                            <p class="leading-relaxed text-justify">Mr. Khan is a retired professional banker with 38 years of experience striving to change, expand and diversify organizations he works with. He has established the country’s largest foreign bank; The Standard Chartered Bank. He has had 37 years of experience and training in banking, capital markets, management, and leadership practices. He joined Mutual Trust Bank Limited (MTB) on April 15, 2009, as the Group Managing Director & CEO, and has retired 2019 having reached the statutory retirement age. MTB, under his leadership for over ten years, has achieved a leading position in the business arena. Mr. Khan is currently the Vice President of the country’s pre-eminent Metropolitan Chamber of Commerce and Industry, Dhaka (MCCI)</p>
+                        </div>
+                    </div>
+                    <div class="lg:w-2/6 mx-auto flex flex-wrap">
+                        <img alt="ecommerce" class="lg:w-1/3 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (4).jpg">
+                        <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+                            <h2 class="text-sm title-font text-gray-500 tracking-widest">Vice CHairman, Valor of Bangladesh</h2>
+
+                            <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">KAM Majedur Rahman</h1>
+
+                            <p class="leading-relaxed text-justify">Mr. Rahman has decades of experience in Financial consulting, Stock Exchange, Banks and Financial Institutions in four geographies. He was the former Managing Director of Dhaka Stock Exchange Limited and also the CEO of a foreign and local bank in Bangladesh. He is also known to have held Senior Management positions at Corporate Trade, SME and Retail Banking businesses. He was also the Executive Director of FinExcel and the Independent Director of Shahjalal Islami Bank Limited. Mr. Rahman currently holds the title of being the Chief Executive Officer of A.K. Khan & Company Ltd.</p>
+                        </div>
                     </div>
                 </div>
-                <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12 mb-5">
-                    <div class="w-2/4 h-full bg-indigo-500"></div>
+            </div>
+        </section>
+        <!-- Duo Trustee Part-1 Stop -->
+
+        <!-- Duo Trustee Part-2 Start -->
+        <section class="text-gray-600 body-font overflow-hidden">
+            <div class="container px-5 py-10 mx-auto">
+                <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-6 mb-6">
+                    <div class="w-1/4 h-full bg-indigo-500"></div>
                 </div>
                 <div class="flex flex-row" style="background-image: url('./assets/images/gallery/bg1.jpg'); background-size: cover; height:950px; padding-top:0px;">
                     <div class="lg:w-2/6 mx-auto flex flex-wrap">
@@ -235,7 +254,7 @@
                 </div>
             </div>
         </section>
-        <!-- Single Trustee Part Stop -->
+        <!-- Duo Trustee Part-2 Stop -->
 
         <!-- Panel Update Start-->
         <section class="text-gray-600 body-font" id="panelist">
