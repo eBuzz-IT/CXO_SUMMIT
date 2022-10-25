@@ -11,7 +11,7 @@ if (isset($_SESSION['title'])) {
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title><?php echo $title; ?></title>
-<link rel="icon" type="image/x-icon" href="../assets/images/logo/Strategy Summit 2022.png">
+<link rel="icon" type="image/x-icon" href="../assets/images/logo/cxo_logo_2.jpg">
 <!-- <link rel="stylesheet" href="/assets/css/bootstrap.css"> -->
 <!-- Tailwind CSS -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
