@@ -7,23 +7,23 @@
             <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
                 <!-- Item 1 -->
                 <div class="duration-700 ease-in-out absolute inset-0 transition-all transform -translate-x-full z-10" data-carousel-item="">
-                    <img src="./assets/images/banner/banner 0.jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
+                    <img src="./assets/images/banner/banner (1).jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
                 </div>
                 <!-- Item 2 -->
                 <div class="duration-700 ease-in-out absolute inset-0 transition-all transform translate-x-0 z-20" data-carousel-item="active">
-                    <img src="./assets/images/banner/banner 1.jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
+                    <img src="./assets/images/banner/banner (2).jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
                 </div>
                 <!-- Item 3 -->
                 <div class="duration-700 ease-in-out absolute inset-0 transition-all transform translate-x-full z-10" data-carousel-item="">
-                    <img src="./assets/images/banner/banner 2.jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
+                    <img src="./assets/images/banner/banner (3).jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
                 </div>
                 <!-- Item 4 -->
                 <div class="hidden duration-700 ease-in-out absolute inset-0 transition-all transform" data-carousel-item="">
-                    <img src="./assets/images/banner/banner 3.jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
+                    <img src="./assets/images/banner/banner (4).jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
                 </div>
                 <!-- Item 5 -->
                 <div class="hidden duration-700 ease-in-out absolute inset-0 transition-all transform" data-carousel-item="">
-                    <img src="/docs/images/carousel/carousel-5.svg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                    <img src="./assets/images/banner/banner (5).jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                 </div>
             </div>
             <!-- Slider controls -->
@@ -72,9 +72,9 @@
                 </div>
                 <div class="ifarme-container">
                     <center>
-                        <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/s_iFGBPDtXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+                        <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/JliOiQeZe-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
-                        <iframe width="600" height="300" src="https://www.youtube.com/embed/PglBNJGLDIE?autoplay=1&mute=1&loop=1&rel=0&showinfo=0" frameborder="0" allowfullscreen title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="eager" allowfullscreen></iframe>
+                        <iframe width="600" height="300" src="https://www.youtube.com/embed/JliOiQeZe-g?autoplay=1&mute=1&loop=1&rel=0&showinfo=0" frameborder="0" allowfullscreen title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="eager" allowfullscreen></iframe>
                     </center>
                 </div>
                 <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12">
@@ -130,7 +130,7 @@
                         </div>
                         <div class="relative w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center">
                             <h3 class="text-center">
-                                <a href="../assets/files/SS1p.pdf" class="text-white text-2xl font-bold text-center" href="#">
+                                <a href="../assets/files/CXO22-B.pdf" class="text-white text-2xl font-bold text-center" href="#">
                                     <span class="absolute inset-0"></span>
                                     Click to Download <br> <br> CXO Summit '22 Brouchure
                                 </a>
@@ -142,7 +142,7 @@
                         </div>
                         <div class="relative w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center">
                             <h3 class="text-center">
-                                <a href="../assets/files/Strategy Summit 2022.jpg" class="text-white text-2xl font-bold text-center" href="#">
+                                <a href="../assets/files/CXO22-EF.pdf" class="text-white text-2xl font-bold text-center" href="#">
                                     <span class="absolute inset-0"></span>
                                     Click to Download <br> <br> Event Schedule
                                 </a>
