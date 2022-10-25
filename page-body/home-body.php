@@ -65,10 +65,13 @@
                     <center>
                         <h1 class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0 py-3">Program starts in</h1>
                         <div class="custom-count-control">
-                            <script class="eca65e30de7bf0be52789d3dd040ee12" src="https://w.promofeatures.com/js/timer/eca65e30de7bf0be52789d3dd040ee12.js?v=1661424869"></script>
+                        <script class="8a25f80c14d6cd8c883d7349265d9880" src="https://w.promofeatures.com/js/timer/8a25f80c14d6cd8c883d7349265d9880.js?v=1666695197"></script>
                         </div>
                     </center>
 
+                </div>
+                <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-6 mb-10">
+                    <div class="w-4/4 h-full bg-indigo-500"></div>
                 </div>
                 <div class="ifarme-container">
                     <center>
@@ -193,7 +196,7 @@
                     </p>
                 </div>
                 <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12">
-                        <div class="w-1/4 h-full bg-indigo-500"></div>
+                    <div class="w-1/4 h-full bg-indigo-500"></div>
                 </div>
                 <div class="lg:w-2/5 mx-auto flex flex-wrap mt-5">
                     <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (1).jpg">
@@ -206,7 +209,7 @@
                     </div>
                 </div>
                 <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12 mb-5">
-                        <div class="w-2/4 h-full bg-indigo-500"></div>
+                    <div class="w-2/4 h-full bg-indigo-500"></div>
                 </div>
                 <div class="flex flex-row" style="background-image: url('./assets/images/gallery/bg1.jpg'); background-size: cover; height:950px; padding-top:0px;">
                     <div class="lg:w-2/6 mx-auto flex flex-wrap">
@@ -452,7 +455,13 @@
         <!-- Event Schedule Start-->
         <section class="overflow-hidden text-gray-700 pt-4 pb-8">
             <div class="flex flex-col text-center w-full mb-12">
-                <h1 class="text-3xl font-medium title-font mb-4 text-gray-900">CXO SUMMIT 2022 (one day) Program Schedule</h1>
+                <h1 class="text-3xl font-medium title-font mb-4 text-gray-900">CXO SUMMIT 2022 - Program Schedule</h1>
+                <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center">
+                    <i> The CXO Summit 2022 is a day-long program </i>
+                </p>
+            </div>
+            <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12">
+                <div class="w-1/4 h-full bg-indigo-500"></div>
             </div>
             <div class="py-5 px-5 container text-center mx-auto">
 
@@ -461,57 +470,101 @@
                         <tbody class="text-xl font-semibold">
                             <tr class="border-b border-gray-300 dark:border-gray-700">
                                 <td scope="row" class="py-4 px-6 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                                    Apple MacBook Pro 17"
+                                    Reporting & Registration
                                 </td>
                                 <td class="py-4 px-6 text-gray-900">
-                                    Sliver
+                                    09:00 AM
                                 </td>
                                 <td class="py-4 px-6 text-gray-900">
-                                    Laptop
+                                    10:00 AM
                                 </td>
                             </tr>
                             <tr class="border-b border-gray-300 dark:border-gray-700">
                                 <td scope="row" class="py-4 px-6 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                                    Microsoft Surface Pro
+                                    Inauguration
                                 </td>
                                 <td class="py-4 px-6 text-gray-900">
-                                    White
+                                    10:00 AM
                                 </td>
                                 <td class="py-4 px-6 text-gray-900">
-                                    Laptop PC
+                                    10:30 AM
                                 </td>
                             </tr>
                             <tr class="border-b border-gray-300 dark:border-gray-700">
                                 <td scope="row" class="py-4 px-6 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                                    Magic Mouse 2
+                                    Opening Keynote
                                 </td>
                                 <td class="py-4 px-6 text-gray-900">
-                                    Black
+                                    10:30 AM
                                 </td>
                                 <td class="py-4 px-6 text-gray-900">
-                                    Accessories
+                                    11:00 AM
                                 </td>
                             </tr>
                             <tr class="border-b border-gray-300 dark:border-gray-700">
                                 <td scope="row" class="py-4 px-6 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                                    Google Pixel Phone
+                                    Panel 1 - Open Forum: In Pursuit of Sustainability
                                 </td>
                                 <td class="py-4 px-6 text-gray-900">
-                                    Gray
+                                    11:00 AM
                                 </td>
                                 <td class="py-4 px-6 text-gray-900">
-                                    Phone
+                                    01:00 PM
                                 </td>
                             </tr>
-                            <tr>
+                            <tr class="border-b border-gray-300 dark:border-gray-700">
                                 <td scope="row" class="py-4 px-6 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                                    Apple Watch 5
+                                    Lunch
                                 </td>
                                 <td class="py-4 px-6 text-gray-900">
-                                    Red
+                                    01:00 PM
                                 </td>
                                 <td class="py-4 px-6 text-gray-900">
-                                    Wearables
+                                    02:00 PM
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-300 dark:border-gray-700">
+                                <td scope="row" class="py-4 px-6 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Panel 2 - Talent Acquisition
+                                </td>
+                                <td class="py-4 px-6 text-gray-900">
+                                    02:00 PM
+                                </td>
+                                <td class="py-4 px-6 text-gray-900">
+                                    03:00 PM
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-300 dark:border-gray-700">
+                                <td scope="row" class="py-4 px-6 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Panel 3 - Diversity and Equity
+                                </td>
+                                <td class="py-4 px-6 text-gray-900">
+                                    03:00 PM
+                                </td>
+                                <td class="py-4 px-6 text-gray-900">
+                                    04:00 PM
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-300 dark:border-gray-700">
+                                <td scope="row" class="py-4 px-6 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Panel 4 - Organizational Transformation
+                                </td>
+                                <td class="py-4 px-6 text-gray-900">
+                                    04:00 PM
+                                </td>
+                                <td class="py-4 px-6 text-gray-900">
+                                    05:00 PM
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-300 dark:border-gray-700">
+                                <td scope="row" class="py-4 px-6 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                    Closing
+                                </td>
+                                <td class="py-4 px-6 text-gray-900">
+                                    05:00 PM
+                                </td>
+                                <td class="py-4 px-6 text-gray-900">
+
                                 </td>
                             </tr>
                         </tbody>
