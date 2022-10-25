@@ -1,5 +1,6 @@
 <?php
     $msg = "";
+    $msg2 ="";
     if(isset($_POST['submit']))
     {
         $fname = $_POST['fname'];
@@ -12,7 +13,7 @@
         $contact = $_POST['contact'];
         $date = $_POST['date'];
         $trxid = $_POST['trxid'];
-        $about = $_POST['about'];
+        // $about = $_POST['about'];
 
         //image upload start
         $target_dir = "assets/uploads/bankphoto/";
@@ -62,7 +63,7 @@
             {
                 $sql = "INSERT INTO 
                 `participants`(`full_name`, `email`, `organization`, `designation`, `address`, `postal_code`, `city`, `phone`, `date`, `trxid`, `about`) 
-                VALUES ('$fname','$email','$organization','$designation','$address','$postal','$city','$contact','$date','$trxid','$about')";
+                VALUES ('$fname','$email','$organization','$designation','$address','$postal','$city','$contact','$date','$trxid',' ')";
 
                 $query = mysqli_query($conn,$sql);
 
