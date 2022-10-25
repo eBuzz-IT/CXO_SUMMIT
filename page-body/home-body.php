@@ -65,7 +65,7 @@
                     <center>
                         <h1 class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0 py-3">Program starts in</h1>
                         <div class="custom-count-control">
-                        <script class="8a25f80c14d6cd8c883d7349265d9880" src="https://w.promofeatures.com/js/timer/8a25f80c14d6cd8c883d7349265d9880.js?v=1666695197"></script>
+                            <script class="8a25f80c14d6cd8c883d7349265d9880" src="https://w.promofeatures.com/js/timer/8a25f80c14d6cd8c883d7349265d9880.js?v=1666695197"></script>
                         </div>
                     </center>
 
@@ -185,8 +185,8 @@
         </section>
         <!-- registration part -->
 
-         <!-- Duo Trustee Part-1 Start -->
-         <section class="text-gray-600 body-font overflow-hidden">
+        <!-- Duo Trustee Part-1 Start -->
+        <section class="text-gray-600 body-font overflow-hidden">
             <div class="container px-5 py-10 mx-auto">
                 <div class="mb-8">
                     <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900">Discover the minds behind the enhancement you will be witnessing at our event!
@@ -198,8 +198,8 @@
                 <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-6 mb-6">
                     <div class="w-1/4 h-full bg-indigo-500"></div>
                 </div>
-                <div class="flex flex-row" style="background-image: url('./assets/images/gallery/bg6.jpg'); background-size: cover; height:950px; padding-top:0px;">
-                    <div class="lg:w-2/6 mx-auto flex flex-wrap">
+                <div class="grid grid-cols-1 gap-4 lg:grid-cols-2 md:grid-cols-1" style="background-image: url('./assets/images/gallery/bg6.jpg'); background-size: cover; height:950px; padding-top:0px;">
+                    <div class="lg:w-3/4 mx-auto flex flex-wrap">
                         <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (1).jpg">
                         <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
                             <h2 class="text-sm title-font text-gray-500 tracking-widest">Chairman, Valor of Bangladesh</h2>
@@ -209,7 +209,7 @@
                             <p class="leading-relaxed text-justify">Mr. Khan is a retired professional banker with 38 years of experience striving to change, expand and diversify organizations he works with. He has established the country’s largest foreign bank; The Standard Chartered Bank. He has had 37 years of experience and training in banking, capital markets, management, and leadership practices. He joined Mutual Trust Bank Limited (MTB) on April 15, 2009, as the Group Managing Director & CEO, and has retired 2019 having reached the statutory retirement age. MTB, under his leadership for over ten years, has achieved a leading position in the business arena. Mr. Khan is currently the Vice President of the country’s pre-eminent Metropolitan Chamber of Commerce and Industry, Dhaka (MCCI)</p>
                         </div>
                     </div>
-                    <div class="lg:w-2/6 mx-auto flex flex-wrap">
+                    <div class="lg:w-3/4 mx-auto flex flex-wrap">
                         <img alt="ecommerce" class="lg:w-1/3 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (4).jpg">
                         <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
                             <h2 class="text-sm title-font text-gray-500 tracking-widest">Vice CHairman, Valor of Bangladesh</h2>
@@ -230,9 +230,9 @@
                 <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-6 mb-6">
                     <div class="w-1/4 h-full bg-indigo-500"></div>
                 </div>
-                <div class="flex flex-row" style="background-image: url('./assets/images/gallery/bg1.jpg'); background-size: cover; height:950px; padding-top:0px;">
-                    <div class="lg:w-2/6 mx-auto flex flex-wrap">
-                        <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (3).jpg">
+                <div class="grid grid-cols-1 gap-4 lg:grid-cols-2 md:grid-cols-1" style="background-image: url('./assets/images/gallery/bg1.jpg'); background-size: cover; height:950px; padding-top:0px;">
+                    <div class="lg:w-3/4 mx-auto flex flex-wrap">
+                        <img alt="ecommerce" class="lg:w-3/4 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (3).jpg">
                         <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
                             <h2 class="text-sm title-font text-gray-500 tracking-widest">Communication Director, Valor of Bangladesh</h2>
 
@@ -241,8 +241,8 @@
                             <p class="leading-relaxed text-justify">Mahzabin Ferdous started her journey in brand development and client management in advertising, Mahzabin also holds direct experience working with the transformation of IPDC. She is the Co-Founder of Daruchini and the Executive Director of CONCITO PR. Her current role is to develop, implement and monitor the communication for her new venture CThreeSixty which is a Singapore based collaboration firm that adopts global practices to deliver communications and marketing solutions to the partners.</p>
                         </div>
                     </div>
-                    <div class="lg:w-2/6 mx-auto flex flex-wrap">
-                        <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (2).jpg">
+                    <div class="lg:w-3/4 mx-auto flex flex-wrap">
+                        <img alt="ecommerce" class="lg:w-3/4 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (2).jpg">
                         <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
                             <h2 class="text-sm title-font text-gray-500 tracking-widest">Executive Director, Valor of Bangladesh</h2>
 

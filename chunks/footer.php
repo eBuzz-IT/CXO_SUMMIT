@@ -1,5 +1,5 @@
     <!-- Footer section -->
-    <footer class="text-gray-600 body-font">
+    <footer class="text-gray-600 body-font mb-2">
         <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col"  style="background-image: url('./assets/images/gallery/footer_bg1.jpg'); background-size: cover; height:150px; padding-top:0px;">
             <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
                <img src="../assets/images/gallery/cxo_logo_1.png" width="100px" alt="">
