@@ -16,6 +16,9 @@
     .custom-count-control canvas{
         width: 80vw !important;
     }
+    .duo img{
+        width: 30vw !important;
+    }
 }
 
 @media only screen and (max-width: 639px) {
