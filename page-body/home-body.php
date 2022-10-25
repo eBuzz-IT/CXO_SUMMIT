@@ -61,6 +61,8 @@
                         </center>
                     </div>
                 </div>
+
+                <!-- TIMER -->
                 <div class="py-6 uppercase lg:font-extrabold text-gray-900">
                     <center>
                         <h1 class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0 py-3">Program starts in</h1>
@@ -68,15 +70,14 @@
                             <script class="8a25f80c14d6cd8c883d7349265d9880" src="https://w.promofeatures.com/js/timer/8a25f80c14d6cd8c883d7349265d9880.js?v=1666695197"></script>
                         </div>
                     </center>
-
                 </div>
+                <!-- TIMER -->
+
                 <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-6 mb-10">
                     <div class="w-4/4 h-full bg-indigo-500"></div>
                 </div>
                 <div class="ifarme-container">
                     <center>
-                        <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/JliOiQeZe-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-
                         <iframe width="600" height="300" src="https://www.youtube.com/embed/JliOiQeZe-g?autoplay=1&mute=1&loop=1&rel=0&showinfo=0" frameborder="0" allowfullscreen title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="eager" allowfullscreen></iframe>
                     </center>
                 </div>
@@ -119,7 +120,7 @@
         <!-- video Section End-->
 
         <!-- Box Section Start -->
-        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-4 mb-2" style="background-image: url('./assets/images/gallery/bg5.jpg'); background-size: cover; height:450px; padding-top:0px;">
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-4 mb-2" style="background-image: url('./assets/images/gallery/bg5.jpg'); background-size: cover; padding-top:0px;">
             <article>
                 <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900"> Get The Brochure
                     and Schedule
@@ -128,7 +129,7 @@
                     Brochure, Event Schedule and stay Updated for the CXO SUMMIT 2022!</p>
                 <section class="mt-6 grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-x-6 gap-y-8 justify-center">
                     <article></article>
-                    <article class="relative w-full h-64 bg-cover bg-center group rounded-lg overflow-hidden shadow-lg hover:shadow-2xl  transition duration-300 ease-in-out" style="background-image: url('../assets/images/logo/Strategy Summit 2022.jpg');">
+                    <article class="relative w-full h-42 lg:h-64 md:h-52 mb-5 bg-cover bg-center group rounded-lg overflow-hidden shadow-lg hover:shadow-2xl  transition duration-300 ease-in-out" style="background-image: url('../assets/images/logo/Strategy Summit 2022.jpg');">
                         <div class="absolute inset-0 bg-black bg-opacity-70 group-hover:opacity-75 transition duration-300 ease-in-out">
                         </div>
                         <div class="relative w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center">
@@ -140,7 +141,7 @@
                             </h3>
                         </div>
                     </article>
-                    <article class="relative w-full h-64 bg-cover bg-center group rounded-lg overflow-hidden shadow-lg hover:shadow-2xl  transition duration-300 ease-in-out" style="background-image: url('../assets/images/gallery/event-schedule.jpg');">
+                    <article class="relative w-full h-42 lg:h-64 md:h-52 mb-5 bg-cover bg-center group rounded-lg overflow-hidden shadow-lg hover:shadow-2xl  transition duration-300 ease-in-out" style="background-image: url('../assets/images/gallery/event-schedule.jpg');">
                         <div class="absolute inset-0 bg-black bg-opacity-50 group-hover:opacity-75 transition duration-300 ease-in-out">
                         </div>
                         <div class="relative w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center">
@@ -169,7 +170,7 @@
                 <div class="flex flex-wrap -mx-4 -mb-5 text-center">
                     <div class="sm:w-full mb-10 px-4">
                         <div class="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" class="object-cover ml-24 lg:ml-72 md:ml-52 object-center h-full w-2/4" src="../assets/images/logo/WEBISTE-1.jpg">
+                            <img alt="content" class="object-cover object-center h-full w-full" src="../assets/images/logo/WEBISTE-1.jpg">
                         </div>
                         <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Taking the Final Step</h2>
                         <p class="leading-relaxed text-base">Join us in this journey as a participant. Book your seat

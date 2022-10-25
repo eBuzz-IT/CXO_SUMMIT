@@ -1,13 +1,20 @@
+@media only screen and (max-width: 992px) {
+    
+}
+
 @media only screen and (max-width: 768px) {
     nav button{
         margin-top: 7px;
         margin-bottom: 7px;
     }
-    .h-64 {
+    /* .h-64 {
         height: 10rem !important;
-    } 
+    }  */
     .custom-text-align{
         text-align: center;
+    }
+    .custom-count-control canvas{
+        width: 80vw !important;
     }
 }
 
