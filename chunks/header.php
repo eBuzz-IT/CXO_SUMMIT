@@ -64,10 +64,10 @@
                              </div>
 
                              <!--Body-->
-                             <img src="../assets/images/banner/banner 0.jpg" alt="">
+                             <img src="../assets/images/banner/banner (5).jpg" alt="">
                              <p class="text-justify text-sm">Join the CXO Summit 2022.
 
-                                 The fourth edition of the CXO Summit is a daylong summit with visionaries from the leading organizations in Bangladesh. It is a combination of panel discussions and networking to be held on the 26th of November, 2022 at the Radisson Blu Dhaka Water Garden. A total of 24 panelists will be present at the event. There will be a pre-show called "EXPERT EYE-Season 2", a virtual webinar series of 6-8 episodes. Moreover, our flagship journal called "Chief Excellence Officer" will be published and distributed during and after the CXO Summit, which will contain the best industry practices of some of the most innovative companies in Bangladesh. This show is perfect for professionals looking to make the final leap in leadership strategy.
+                                 The fourth edition of the CXO Summit is a daylong summit with visionaries from the leading organizations in Bangladesh. It is a combination of panel discussions and networking session to be held on the 3rd December, 2022 at the Radisson Blu Dhaka Water Garden. A total of 24 panelists will be present at the event. There will be a pre-show called "EXPERT EYE-Season 2", a virtual webinar series of 6-8 episodes. Moreover, our flagship journal called "Chief Excellence Officer" will be published and distributed during and after the CXO Summit, which will contain the best industry practices of some of the most prominent companies in Bangladesh. This event is the best platform for professionals who are preparing to move to the next stage in leadership strategy.
                              </p>
                              <!-- modal button 1 end -->
                              <div class="flex justify-end pt-2">

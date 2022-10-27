@@ -67,7 +67,7 @@
                     <center>
                         <h1 class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0 py-3">Program starts in</h1>
                         <div class="custom-count-control">
-                            <script class="8a25f80c14d6cd8c883d7349265d9880" src="https://w.promofeatures.com/js/timer/8a25f80c14d6cd8c883d7349265d9880.js?v=1666695197"></script>
+                            <script class="8a25f80c14d6cd8c883d7349265d9880" src="https://w.promofeatures.com/js/timer/8a25f80c14d6cd8c883d7349265d9880.js?v=1666864671"></script>
                         </div>
                     </center>
                 </div>
@@ -120,7 +120,7 @@
         <!-- video Section End-->
 
         <!-- Box Section Start -->
-        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-4 mb-2" style="background-image: url('./assets/images/gallery/bg5.jpg'); background-size: cover; padding-top:0px;">
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-4 mb-2">
             <article>
                 <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900"> Get The Brochure
                     and Schedule
@@ -164,13 +164,13 @@
                 <div class="mb-8">
                     <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900">EXPERIENCE THE MEGA CORPORATE EVENT OF THE YEAR!!!
                     </h1>
-                    <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center">Experience the foremost strategies for understanding the line of reasoning in the context of corporate sustainability.
+                    <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center">Witness the foremost strategies for understanding the line of reasoning in the context of corporate sustainability.
                     </p>
                 </div>
                 <div class="flex flex-wrap -mx-4 -mb-5 text-center">
                     <div class="sm:w-full mb-10 px-4">
                         <div class="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" class="object-cover object-center h-full w-full" src="../assets/images/logo/WEBISTE-1.jpg">
+                        <a target="_self" href="/registration-1.php"><img alt="content" class="object-cover object-center h-full w-full" src="../assets/images/logo/WEBISTE-1.jpg"></a> 
                         </div>
                         <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Taking the Final Step</h2>
                         <p class="leading-relaxed text-base">Join us in this journey as a participant. Book your seat
@@ -190,7 +190,7 @@
         <section class="text-gray-600 body-font overflow-hidden">
             <div class="container px-5 py-10 mx-auto">
                 <div class="mb-8">
-                    <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900">Discover the minds behind the enhancement you will be witnessing at our event!
+                    <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900">Discover the minds behind the enhancement of CXO SUMMIT '22
                     </h1>
                     <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center">
                         The CXO Summit 2022 provides a forum for senior corporate executives to come together, exchange knowledge, and look for solutions.
@@ -202,18 +202,18 @@
                 <div class="duo grid grid-cols-1 gap-4 lg:grid-cols-2 md:grid-cols-1" style="background-image: url('./assets/images/gallery/bg6.jpg'); background-size: cover; height:950px; padding-top:0px;">
                     <div class="lg:w-3/4 mx-auto flex flex-wrap">
                         <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (1).jpg">
-                        <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+                        <div class="lg:w-1/2 w-full lg:py-6 mt-6 lg:mt-0">
                             <h2 class="text-sm title-font text-gray-500 tracking-widest">Chairman, Valor of Bangladesh</h2>
 
                             <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">Anis A. Khan</h1>
 
-                            <p class="leading-relaxed text-justify">Mr. Khan is a retired professional banker with 38 years of experience striving to change, expand and diversify organizations he works with. He has established the country’s largest foreign bank; The Standard Chartered Bank. He has had 37 years of experience and training in banking, capital markets, management, and leadership practices. He joined Mutual Trust Bank Limited (MTB) on April 15, 2009, as the Group Managing Director & CEO, and has retired 2019 having reached the statutory retirement age. MTB, under his leadership for over ten years, has achieved a leading position in the business arena. Mr. Khan is currently the Vice President of the country’s pre-eminent Metropolitan Chamber of Commerce and Industry, Dhaka (MCCI)</p>
+                            <p class="leading-relaxed text-justify">Mr. Khan is a retired professional banker with 38 years of experience striving to change, expand and diversify organizations he works with. He has established the country’s largest foreign bank; The Standard Chartered Bank. He has had 37 years of experience and training in banking, capital markets, management, and leadership practices. He joined Mutual Trust Bank Limited (MTB) on April 15, 2009, as the Group Managing Director & CEO, and has retired 2019 having reached the statutory retirement age. MTB, under his leadership for over ten years, has achieved a leading position in the business arena. Mr. Khan is currently the Vice President of the country’s pre-eminent Metropolitan Chamber of Commerce and Industry, Dhaka.</p>
                         </div>
                     </div>
                     <div class="lg:w-3/4 mx-auto flex flex-wrap">
                         <img alt="ecommerce" class="duo lg:w-1/3 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (4).jpg">
-                        <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
-                            <h2 class="text-sm title-font text-gray-500 tracking-widest">Vice CHairman, Valor of Bangladesh</h2>
+                        <div class="lg:w-1/2 w-full lg:py-6 mt-6 lg:mt-0">
+                            <h2 class="text-sm title-font text-gray-500 tracking-widest">Vice Chairman, Valor of Bangladesh</h2>
 
                             <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">KAM Majedur Rahman</h1>
 
@@ -234,7 +234,7 @@
                 <div class="duo grid grid-cols-1 gap-4 lg:grid-cols-2 md:grid-cols-1" style="background-image: url('./assets/images/gallery/bg1.jpg'); background-size: cover; height:950px; padding-top:0px;">
                     <div class="lg:w-3/4 mx-auto flex flex-wrap">
                         <img alt="ecommerce" class="lg:w-3/4 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (3).jpg">
-                        <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+                        <div class="lg:w-1/2 w-full lg:py-6 mt-6 lg:mt-0">
                             <h2 class="text-sm title-font text-gray-500 tracking-widest">Communication Director, Valor of Bangladesh</h2>
 
                             <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">Mahzabin Ferdous</h1>
@@ -244,7 +244,7 @@
                     </div>
                     <div class="lg:w-3/4 mx-auto flex flex-wrap">
                         <img alt="ecommerce" class="duo lg:w-3/4 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (2).jpg">
-                        <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+                        <div class="lg:w-1/2 w-full lg:py-6 mt-6 lg:mt-0">
                             <h2 class="text-sm title-font text-gray-500 tracking-widest">Executive Director, Valor of Bangladesh</h2>
 
                             <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">Najmus Ahmed Albab</h1>
@@ -261,7 +261,7 @@
         <section class="text-gray-600 body-font" id="panelist">
             <div class="container px-5 py-10 mx-auto">
                 <div class="flex flex-col text-center w-full mb-8">
-                    <h1 class="sm:text-4xl text-3xl font-medium title-font mb-4 text-gray-900">Meet The Trustees</h1>
+                    <h1 class="sm:text-4xl text-3xl font-medium title-font mb-4 text-gray-900">Word of Trustees</h1>
                     <p class="lg:w-2/3 mx-auto leading-relaxed text-base italic">Hear from our Trustee Board to see what they have to say about CXO Summit 2022</p>
                     <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12">
                         <div class="w-3/4 h-full bg-indigo-500"></div>
@@ -447,10 +447,10 @@
                             <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (15).jpg" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Zahida Fizza Kabir</h1>
-                                <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">CEO, SAJEDA Foundation
+                                <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">CEO, SAJIDA Foundation
                                 </h2>
                                 <p class="leading-relaxed mb-3 text-justify">
-                                    “Inclusive and sustainable economic growth requires enough opportunities for employment through the promotion of Neo entrepreneurship and awareness about the basic rights of human beings.”
+                                    “Inclusive and sustainable economic growth requires en  ough opportunities for employment through the promotion of Neo entrepreneurship and awareness about the basic rights of human beings.”
                                 </p>
                             </div>
                         </div>
@@ -600,7 +600,7 @@
         <section class="overflow-hidden text-gray-700 pt-4 pb-8">
             <div class="flex flex-col text-center w-full mb-12">
                 <h1 class="sm:text-3xl text-5xl font-medium title-font mb-4 text-gray-900">CXO Summit Gallery 2021</h1>
-                <p class="lg:w-2/3 mx-auto text-2xl leading-relaxed text-base italic">~A collection of the greatest hits
+                <p class="lg:w-2/3 mx-auto text-2xl leading-relaxed text-base italic">~A collection of some excellent memories
                     from
                     our last
                     edition of CXO Summit~</p>

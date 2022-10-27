@@ -19,10 +19,10 @@
                 <div class="flex-auto px-4 lg:px-10 py-10 pt-0">
                     <div>
                         <p class="text-center pb-12">
-                            "Register to attend the conversations, which will feature some of the country's most
-                            prominent figures. A remarkable group of speakers will participate in eight panel
+                            "Register to attend the congregation, which will feature some of the country's most
+                            prominent figures. A remarkable group of speakers will participate in four panel
                             discussions. Join us today for more information about some of the most interesting industry
-                            trends and get insight from some of the best business minds in the country."
+                            trends and get insights from some of the best business minds in the country."
                         </p>
                     </div>
                     <!--<div class="border-b-4 border-green-400">-->
