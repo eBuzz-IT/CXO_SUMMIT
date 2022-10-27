@@ -612,46 +612,46 @@
                 <div class="flex flex-wrap -m-1 md:-m-2">
                     <div class="flex flex-wrap w-1/2">
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (1).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (1).JPG">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (2).jpg">
                         </div>
                         <div class="w-full p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (3).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (3).JPG">
                         </div>
                     </div>
                     <div class="flex flex-wrap w-1/2">
                         <div class="w-full p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (4).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (4).JPG">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (9).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (9).JPG">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (6).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (6).JPG">
                         </div>
                     </div>
                     <div class="flex flex-wrap w-1/2">
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (10).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (10).JPG">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (11).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (11).JPG">
                         </div>
                         <div class="w-full p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (12).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (12).JPG">
                         </div>
                     </div>
                     <div class="flex flex-wrap w-1/2">
                         <div class="w-full p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (5).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (5).JPG">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (7).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (7).JPG">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (8).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gal (8).JPG">
                         </div>
                     </div>
                 </div>
