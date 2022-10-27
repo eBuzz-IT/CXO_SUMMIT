@@ -67,7 +67,7 @@
                     <center>
                         <h1 class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0 py-3">Program starts in</h1>
                         <div class="custom-count-control">
-                            <script class="8a25f80c14d6cd8c883d7349265d9880" src="https://w.promofeatures.com/js/timer/8a25f80c14d6cd8c883d7349265d9880.js?v=1666864671"></script>
+                        <script class="8a25f80c14d6cd8c883d7349265d9880" src="https://w.promofeatures.com/js/timer/8a25f80c14d6cd8c883d7349265d9880.js?v=1666867612"></script>
                         </div>
                     </center>
                 </div>
