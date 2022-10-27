@@ -166,7 +166,7 @@
             </div>
                 <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900"> WHY ATTEND
                 </h1>
-                <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center mb-6">Solution for Enterprise Sustainability</p>
+                <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center mb-6">THE CXO SUMMIT 2022</p>
                 <div class="flex flex-wrap -m-4">
                     <div class="p-4 lg:w-1/3">
                         <div class="h-full bg-blue-400 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center relative">
