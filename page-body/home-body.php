@@ -67,7 +67,7 @@
                     <center>
                         <h1 class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0 py-3">Program starts in</h1>
                         <div class="custom-count-control">
-                        <script class="8a25f80c14d6cd8c883d7349265d9880" src="https://w.promofeatures.com/js/timer/8a25f80c14d6cd8c883d7349265d9880.js?v=1666867612"></script>
+                            <script class="8a25f80c14d6cd8c883d7349265d9880" src="https://w.promofeatures.com/js/timer/8a25f80c14d6cd8c883d7349265d9880.js?v=1666867612"></script>
                         </div>
                     </center>
                 </div>
@@ -158,9 +158,46 @@
         </section>
         <!-- Box Section End -->
 
+        <!-- Why attend Start -->
+        <section class="text-gray-600 body-font">
+            <div class="container px-5 py-24 mx-auto">
+            <div class="h-1 bg-indigo-200 rounded overflow-hidden mb-6">
+                <div class="w-2/5 h-full bg-indigo-500"></div>
+            </div>
+                <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900"> WHY ATTEND
+                </h1>
+                <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center mb-6">Solution for Enterprise Sustainability</p>
+                <div class="flex flex-wrap -m-4">
+                    <div class="p-4 lg:w-1/3">
+                        <div class="h-full bg-blue-400 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center relative">
+                            <h1 class="title-font sm:text-2xl text-xl font-medium text-gray-900 mb-3">Solution for Enterprise Sustainability</h1>
+                            <p class="leading-relaxed mb-3 text-justify">Attend exclusive panel discussions to learn how to manage business sustainably and evaluate its strategy to balance economic, ecological, and social performance for optimal decision-making. Learn from the six organization presentations to they adapt and practice dynamically.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="p-4 lg:w-1/3">
+                        <div class="h-full bg-blue-300 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center relative">
+                            <h1 class="title-font sm:text-2xl text-xl font-medium text-gray-900 mb-3">Exclusive networking opportunity</h1>
+                            <p class="leading-relaxed mb-3 text-justify">Meet the greatest corporate leaders, decision-makers, government officials, strategy experts, multinational company executives, policymakers, and experts. Corporate value generation requires greater networking and communication optimization.</p>
+                        </div>
+                    </div>
+                    <div class="p-4 lg:w-1/3">
+                        <div class="h-full bg-blue-200 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center relative">
+                            <h1 class="title-font sm:text-2xl text-xl font-medium text-gray-900 mb-3">Leadership Roadmap</h1>
+                            <p class="leading-relaxed mb-3 text-justify">Discover and share ideas while seamlessly interacting with the industry's recognized leaders using solution-oriented and value-driven approaches, presenting genuine instances with star players who are truly dedicated to articulating the leadership roadmap. Experience a leadership approach that prioritizes corporate sustenance.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Why attend End -->
+
         <!-- registration part -->
         <section class="text-gray-600 body-font">
             <div id="participants" class="container px-5 py-10 mx-auto">
+            <div class="h-1 bg-indigo-200 rounded overflow-hidden mb-6">
+                <div class="w-3/5 h-full bg-indigo-500"></div>
+            </div>
                 <div class="mb-8">
                     <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900">EXPERIENCE THE MEGA CORPORATE EVENT OF THE YEAR!!!
                     </h1>
@@ -170,7 +207,7 @@
                 <div class="flex flex-wrap -mx-4 -mb-5 text-center">
                     <div class="sm:w-full mb-10 px-4">
                         <div class="rounded-lg h-64 overflow-hidden">
-                        <a target="_self" href="/registration-1.php"><img alt="content" class="object-cover object-center h-full w-full" src="../assets/images/logo/WEBSITE-4.png"></a> 
+                            <a target="_self" href="/registration-1.php"><img alt="content" class="object-cover object-center h-full w-full" src="../assets/images/logo/WEBSITE-4.png"></a>
                         </div>
                         <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Taking the Final Step</h2>
                         <p class="leading-relaxed text-base">Join us in this journey as a participant. Book your seat
@@ -223,7 +260,7 @@
                 </div>
             </div>
         </section>
-        <!-- Duo Trustee Part-1 Stop -->
+        <!-- Duo Trustee Part-1 End -->
 
         <!-- Duo Trustee Part-2 Start -->
         <section class="text-gray-600 body-font overflow-hidden">
@@ -255,7 +292,7 @@
                 </div>
             </div>
         </section>
-        <!-- Duo Trustee Part-2 Stop -->
+        <!-- Duo Trustee Part-2 End -->
 
         <!-- Panel Update Start-->
         <section class="text-gray-600 body-font" id="panelist">
@@ -450,7 +487,7 @@
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">CEO, SAJIDA Foundation
                                 </h2>
                                 <p class="leading-relaxed mb-3 text-justify">
-                                    “Inclusive and sustainable economic growth requires en  ough opportunities for employment through the promotion of Neo entrepreneurship and awareness about the basic rights of human beings.”
+                                    “Inclusive and sustainable economic growth requires en ough opportunities for employment through the promotion of Neo entrepreneurship and awareness about the basic rights of human beings.”
                                 </p>
                             </div>
                         </div>
