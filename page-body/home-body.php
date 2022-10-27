@@ -158,46 +158,55 @@
         </section>
         <!-- Box Section End -->
 
-        <!-- Why attend Start -->
+        <!-- Why Participate Start -->
         <section class="text-gray-600 body-font">
-            <div class="container px-5 py-24 mx-auto">
-            <div class="h-1 bg-indigo-200 rounded overflow-hidden mb-6">
-                <div class="w-2/5 h-full bg-indigo-500"></div>
-            </div>
-                <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900"> WHY ATTEND
+            <div class="container px-5 py-20 mx-auto">
+                <div class="h-1 bg-indigo-200 rounded overflow-hidden mb-6">
+                    <div class="w-2/5 h-full bg-indigo-500"></div>
+                </div>
+                <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900"> WHY Participate
                 </h1>
                 <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-center mb-6">THE CXO SUMMIT 2022</p>
                 <div class="flex flex-wrap -m-4">
                     <div class="p-4 lg:w-1/3">
                         <div class="h-full bg-blue-400 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center relative">
+                            <div class="w-8 h-8 mr-3 inline-flex items-center justify-center text-white flex-shrink-0">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M184 48H328c4.4 0 8 3.6 8 8V96H176V56c0-4.4 3.6-8 8-8zm-56 8V96H64C28.7 96 0 124.7 0 160v96H192 352h8.2c32.3-39.1 81.1-64 135.8-64c5.4 0 10.7 .2 16 .7V160c0-35.3-28.7-64-64-64H384V56c0-30.9-25.1-56-56-56H184c-30.9 0-56 25.1-56 56zM320 352H224c-17.7 0-32-14.3-32-32V288H0V416c0 35.3 28.7 64 64 64H360.2C335.1 449.6 320 410.5 320 368c0-5.4 .2-10.7 .7-16l-.7 0zm320 16c0-79.5-64.5-144-144-144s-144 64.5-144 144s64.5 144 144 144s144-64.5 144-144zM496 288c8.8 0 16 7.2 16 16v48h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H496c-8.8 0-16-7.2-16-16V304c0-8.8 7.2-16 16-16z"/></svg>
+                            </div>
                             <h1 class="title-font sm:text-2xl text-xl font-medium text-gray-900 mb-3">Solution for Enterprise Sustainability</h1>
-                            <p class="leading-relaxed mb-3 text-justify">Attend exclusive panel discussions to learn how to manage business sustainably and evaluate its strategy to balance economic, ecological, and social performance for optimal decision-making. Learn from the six organization presentations to they adapt and practice dynamically.
+                            <p class="leading-relaxed mb-3 text-justify"><i>Attend exclusive panel discussions to learn how to manage business sustainably and evaluate its strategy to balance <span class="text-red-700">economic, ecological, and social performance</span> for optimal decision-making. Learn from the six organization presentations to they adapt and practice dynamically.</i>
                             </p>
                         </div>
                     </div>
                     <div class="p-4 lg:w-1/3">
                         <div class="h-full bg-blue-300 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center relative">
+                            <div class="w-8 h-8 mr-3 inline-flex items-center justify-center  text-white flex-shrink-0">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M256 64H384v64H256V64zM240 0c-26.5 0-48 21.5-48 48v96c0 26.5 21.5 48 48 48h48v32H32c-17.7 0-32 14.3-32 32s14.3 32 32 32h96v32H80c-26.5 0-48 21.5-48 48v96c0 26.5 21.5 48 48 48H240c26.5 0 48-21.5 48-48V368c0-26.5-21.5-48-48-48H192V288H448v32H400c-26.5 0-48 21.5-48 48v96c0 26.5 21.5 48 48 48H560c26.5 0 48-21.5 48-48V368c0-26.5-21.5-48-48-48H512V288h96c17.7 0 32-14.3 32-32s-14.3-32-32-32H352V192h48c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48H240zM96 448V384H224v64H96zm320-64H544v64H416V384z"/></svg>
+                            </div>
                             <h1 class="title-font sm:text-2xl text-xl font-medium text-gray-900 mb-3">Exclusive networking opportunity</h1>
-                            <p class="leading-relaxed mb-3 text-justify">Meet the greatest corporate leaders, decision-makers, government officials, strategy experts, multinational company executives, policymakers, and experts. Corporate value generation requires greater networking and communication optimization.</p>
+                            <p class="leading-relaxed mb-3 text-justify"><i>Meet the greatest <span class="text-red-700">corporate leaders, decision-makers, government officials, strategy experts</span>, multinational company executives, policymakers, and experts. Corporate value generation requires greater networking and communication optimization.</i></p>
                         </div>
                     </div>
                     <div class="p-4 lg:w-1/3">
                         <div class="h-full bg-blue-200 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center relative">
+                        <div class="w-8 h-8 mr-3 inline-flex items-center justify-center  text-white flex-shrink-0">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M151.6 42.4C145.5 35.8 137 32 128 32s-17.5 3.8-23.6 10.4l-88 96c-11.9 13-11.1 33.3 2 45.2s33.3 11.1 45.2-2L96 146.3V448c0 17.7 14.3 32 32 32s32-14.3 32-32V146.3l32.4 35.4c11.9 13 32.2 13.9 45.2 2s13.9-32.2 2-45.2l-88-96zM320 480h32c17.7 0 32-14.3 32-32s-14.3-32-32-32H320c-17.7 0-32 14.3-32 32s14.3 32 32 32zm0-128h96c17.7 0 32-14.3 32-32s-14.3-32-32-32H320c-17.7 0-32 14.3-32 32s14.3 32 32 32zm0-128H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H320c-17.7 0-32 14.3-32 32s14.3 32 32 32zm0-128H544c17.7 0 32-14.3 32-32s-14.3-32-32-32H320c-17.7 0-32 14.3-32 32s14.3 32 32 32z"/></svg>
+                        </div>
                             <h1 class="title-font sm:text-2xl text-xl font-medium text-gray-900 mb-3">Leadership Roadmap</h1>
-                            <p class="leading-relaxed mb-3 text-justify">Discover and share ideas while seamlessly interacting with the industry's recognized leaders using solution-oriented and value-driven approaches, presenting genuine instances with star players who are truly dedicated to articulating the leadership roadmap. Experience a leadership approach that prioritizes corporate sustenance.</p>
+                            <p class="leading-relaxed mb-3 text-justify text-bold"><i>Discover and share ideas while seamlessly interacting with the industry's recognized leaders using <span class="text-red-700">solution-oriented and value-driven</span> approaches, presenting genuine instances with star players who are truly dedicated to articulating the leadership roadmap. Experience a leadership approach that prioritizes corporate sustenance.</i></p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Why attend End -->
+        <!-- Why Participate End -->
 
         <!-- registration part -->
         <section class="text-gray-600 body-font">
-            <div id="participants" class="container px-5 py-10 mx-auto">
-            <div class="h-1 bg-indigo-200 rounded overflow-hidden mb-6">
-                <div class="w-3/5 h-full bg-indigo-500"></div>
-            </div>
+            <div id="participants" class="container px-5 py-6 mx-auto">
+                <div class="h-1 bg-indigo-200 rounded overflow-hidden mb-6">
+                    <div class="w-3/5 h-full bg-indigo-500"></div>
+                </div>
                 <div class="mb-8">
                     <h1 class="sm:text-3xl text-3xl font-medium title-font text-center mb-4 text-gray-900">EXPERIENCE THE MEGA CORPORATE EVENT OF THE YEAR!!!
                     </h1>
