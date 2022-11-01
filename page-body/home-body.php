@@ -245,10 +245,10 @@
                 <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-6 mb-6">
                     <div class="w-1/4 h-full bg-indigo-500"></div>
                 </div>
-                <div class="duo grid grid-cols-1 gap-4 lg:grid-cols-2 md:grid-cols-1" style="background-image: url('./assets/images/gallery/bg6.jpg'); background-size: cover; height:950px; padding-top:0px;">
+                <div class="duo grid grid-cols-1 gap-4 lg:grid-cols-2 md:grid-cols-1" style="background-image: url('./assets/images/gallery/bg6.jpg'); background-size: cover; padding-top:0px;">
                     <div class="lg:w-3/4 mx-auto flex flex-wrap">
-                        <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (1).jpg">
-                        <div class="lg:w-1/2 w-full lg:py-6 mt-6 lg:mt-0">
+                        <img alt="ecommerce" class="lg:w-1/2 w-full h-auto object-cover object-center rounded" src="../assets/images/gallery/fb_post (1).jpg">
+                        <div class="lg:w-1/2 w-full lg:py-6 mt-6 lg:mt-0 duo-trustee-text">
                             <h2 class="text-sm title-font text-gray-500 tracking-widest">Chairman, Valor of Bangladesh</h2>
 
                             <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">Anis A. Khan</h1>
@@ -257,8 +257,8 @@
                         </div>
                     </div>
                     <div class="lg:w-3/4 mx-auto flex flex-wrap">
-                        <img alt="ecommerce" class="duo lg:w-1/3 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (4).jpg">
-                        <div class="lg:w-1/2 w-full lg:py-6 mt-6 lg:mt-0">
+                        <img alt="ecommerce" class="duo lg:w-1/3 w-full h-auto object-cover object-center rounded" src="../assets/images/gallery/fb_post (4).jpg">
+                        <div class="lg:w-1/2 w-full lg:py-6 mt-6 lg:mt-0 duo-trustee-text">
                             <h2 class="text-sm title-font text-gray-500 tracking-widest">Vice Chairman, Valor of Bangladesh</h2>
 
                             <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">KAM Majedur Rahman</h1>
@@ -277,10 +277,10 @@
                 <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-6 mb-6">
                     <div class="w-1/4 h-full bg-indigo-500"></div>
                 </div>
-                <div class="duo grid grid-cols-1 gap-4 lg:grid-cols-2 md:grid-cols-1" style="background-image: url('./assets/images/gallery/bg1.jpg'); background-size: cover; height:950px; padding-top:0px;">
+                <div class="duo grid grid-cols-1 gap-4 lg:grid-cols-2 md:grid-cols-1" style="background-image: url('./assets/images/gallery/bg1.jpg'); background-size: cover; padding-top:0px;">
                     <div class="lg:w-3/4 mx-auto flex flex-wrap">
-                        <img alt="ecommerce" class="lg:w-3/4 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (3).jpg">
-                        <div class="lg:w-1/2 w-full lg:py-6 mt-6 lg:mt-0">
+                        <img alt="ecommerce" class="lg:w-3/4 w-full h-auto object-cover object-center rounded" src="../assets/images/gallery/fb_post (3).jpg">
+                        <div class="lg:w-1/2 w-full lg:py-6 mt-6 lg:mt-0 duo-trustee-text">
                             <h2 class="text-sm title-font text-gray-500 tracking-widest">Communication Director, Valor of Bangladesh</h2>
 
                             <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">Mahzabin Ferdous</h1>
@@ -289,8 +289,8 @@
                         </div>
                     </div>
                     <div class="lg:w-3/4 mx-auto flex flex-wrap">
-                        <img alt="ecommerce" class="duo lg:w-3/4 w-full lg:h-auto h-64 object-cover object-center rounded" src="../assets/images/gallery/fb_post (2).jpg">
-                        <div class="lg:w-1/2 w-full lg:py-6 mt-6 lg:mt-0">
+                        <img alt="ecommerce" class="duo lg:w-3/4 w-full h-auto object-cover object-center rounded" src="../assets/images/gallery/fb_post (2).jpg">
+                        <div class="lg:w-1/2 w-full lg:py-6 mt-6 lg:mt-0 duo-trustee-text">
                             <h2 class="text-sm title-font text-gray-500 tracking-widest">Executive Director, Valor of Bangladesh</h2>
 
                             <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">Najmus Ahmed Albab</h1>

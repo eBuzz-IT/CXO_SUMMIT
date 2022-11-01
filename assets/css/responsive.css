@@ -2,6 +2,9 @@
     .custom-count-control canvas {
         width: 85vw !important;
     }
+    .duo-trustee-text {
+        padding: 30px;
+    }
 }
 
 @media only screen and (max-width: 768px) {
@@ -18,9 +21,9 @@
     .custom-count-control canvas {
         width: 80vw !important;
     }
-    .duo img {
+    /* .duo img {
         width: 30vw !important;
-    }
+    } */
     .custom-count-control canvas {
         width: 85vw !important;
     }
@@ -38,6 +41,9 @@
     }
     .custom-count-control canvas {
         width: 85vw !important;
+    }
+    .duo-trustee-text p {
+        font-size: 0.9rem;
     }
 }
 
@@ -63,6 +69,12 @@
     .custom-count-control canvas {
         width: 85vw !important;
     }
+    .duo-trustee-text p {
+        font-size: 0.8rem;
+    }
+    .duo-trustee-text h1 {
+        font-size: 1.5rem !important;
+    }
 }
 
 @media only screen and (max-width: 375px) {
@@ -86,5 +98,8 @@
     }
     .custom-count-control canvas {
         width: 85vw !important;
+    }
+    .duo-trustee-text {
+        padding: 20px;
     }
 }
