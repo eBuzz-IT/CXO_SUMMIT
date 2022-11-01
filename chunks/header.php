@@ -4,36 +4,39 @@
 
          <div class="flex justify-between items-center lg:flex-row md:flex-col sm:flex-col ">
              <div>
-                 <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                 <a href="/" class="cxo-logo transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                      <img src="./assets/images/gallery/cxo_logo_1.png" class="w-32" alt="">
                  </a>
              </div>
-             <div class="flex flex-col md:order-last sm:order-last">
+             <div class="header-phone flex flex-col md:order-last sm:order-last">
                  <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                     <span style="color: black"><i class="fas fa-phone"></i> +880 1404016993</span>
+                     <span style="color: black"><i class="fas fa-phone"></i> +880 1404 016 993</span>
                  </a>
                  <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                     <span style="color: black"><i class="fas fa-phone"></i> +880 1404016993</span>
+                     <span style="color: black"><i class="fas fa-phone"></i> +880 1404 016 993</span>
                  </a>
              </div>
              <div>
-                 <a href="https://valorofbangladesh.com/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                 <a href="https://valorofbangladesh.com/" class="vob-logo transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                      <img src="./assets/images/logo/Valor of Bangladesh-01.png" class="w-32" alt="">
                  </a>
              </div>
          </div>
          <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
 
-             <div class="pb-5">
-                 <button class="modal-open transition duration-500 ease-in-out bg-black nav-txt hover:bg-yellow-200 transform hover:-translate-y-1 hover:scale-110 px-3 py-2 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
-                     CXO SUMMIT 2022
-                 </button>
-                 <button class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-3 py-2 ml-3 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
-                     <a href="/registration-1.php">Register as a Participant</a>
-                 </button>
-                 <button class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-3 py-2 ml-3 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
-                     <a href="#panelist">Word of Trustees</a>
-                 </button>
+            <div class="pb-5">
+
+            <div class="header-buttons">
+                <button class="modal-open transition duration-500 ease-in-out bg-black nav-txt hover:bg-yellow-200 transform hover:-translate-y-1 hover:scale-110 px-3 py-2 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
+                    CXO SUMMIT 2022
+                </button>
+                <button class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-3 py-2 ml-3 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
+                    <a href="/registration-1.php">Register as a Participant</a>
+                </button>
+                <button class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-3 py-2 ml-3 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
+                    <a href="#panelist">Word of Trustees</a>
+                </button>
+            </div>
 
                  <!--Modal here customize it however you want-->
                  <div class="modal opacity-0 pointer-events-none fixed w-full h-full top-0 left-0 flex items-center justify-center">

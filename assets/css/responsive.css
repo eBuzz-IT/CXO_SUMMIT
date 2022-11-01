@@ -1,58 +1,90 @@
 @media only screen and (max-width: 992px) {
-    
+    .custom-count-control canvas {
+        width: 85vw !important;
+    }
 }
 
 @media only screen and (max-width: 768px) {
-    nav button{
+    nav button {
         margin-top: 7px;
         margin-bottom: 7px;
     }
     /* .h-64 {
         height: 10rem !important;
     }  */
-    .custom-text-align{
+    .custom-text-align {
         text-align: center;
     }
-    .custom-count-control canvas{
+    .custom-count-control canvas {
         width: 80vw !important;
     }
-    .duo img{
+    .duo img {
         width: 30vw !important;
+    }
+    .custom-count-control canvas {
+        width: 85vw !important;
     }
 }
 
 @media only screen and (max-width: 639px) {
-    .copyright-text{
+    .copyright-text {
         text-align: center;
-    }   
-    .custom-count-control canvas{
+    }
+    .custom-count-control canvas {
         width: 500px !important;
     }
-    .custom-text-align{
+    .custom-text-align {
         text-align: center;
+    }
+    .custom-count-control canvas {
+        width: 85vw !important;
     }
 }
 
 @media only screen and (max-width: 460px) {
-    nav button{
+    nav button {
         font-size: 13px;
-    } 
-    .custom-count-control canvas{
+    }
+    .custom-count-control canvas {
         width: 300px !important;
-    } 
-    .custom-text-align{
+    }
+    .custom-text-align {
         text-align: center;
+    }
+    .header-phone a {
+        font-size: 0.7rem;
+    }
+    .cxo-logo img {
+        width: 6rem;
+    }
+    .vob-logo img {
+        width: 6rem;
+    }
+    .custom-count-control canvas {
+        width: 85vw !important;
     }
 }
 
 @media only screen and (max-width: 375px) {
-    nav button{
+    nav button {
         font-size: 12px;
-    } 
-    .custom-count-control canvas{
+    }
+    .custom-count-control canvas {
         width: 300px !important;
-    } 
-    .custom-text-align{
+    }
+    .custom-text-align {
         text-align: center;
+    }
+    .header-phone a {
+        font-size: 0.65rem;
+    }
+    .cxo-logo img {
+        width: 5rem;
+    }
+    .vob-logo img {
+        width: 5rem;
+    }
+    .custom-count-control canvas {
+        width: 85vw !important;
     }
 }
