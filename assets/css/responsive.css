@@ -45,6 +45,11 @@
     .duo-trustee-text p {
         font-size: 0.9rem;
     }
+    .schedule-table td {
+        font-size: 0.8rem !important;
+        padding-top: 0.25rem !important;
+        padding-bottom: 0.25rem !important;
+    }
 }
 
 @media only screen and (max-width: 460px) {

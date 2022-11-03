@@ -532,7 +532,7 @@
             <div class="py-5 px-5 container text-center mx-auto">
 
                 <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
-                    <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+                    <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400 schedule-table">
                         <tbody class="text-xl font-semibold">
                             <tr class="border-b border-gray-300 dark:border-gray-700">
                                 <td scope="row" class="py-4 px-6 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
