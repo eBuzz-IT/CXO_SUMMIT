@@ -230,11 +230,11 @@
                         <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Taking the Final Step</h2>
                         <p class="leading-relaxed text-base">Join us in this journey as a participant. Book your seat
                             and meet the Leaders from all over Bangladesh and open the door of opportunities.</p>
-                        <span class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500 text-3xl font-extrabold">Reg.
-                            Fees: BDT 10,000/-</span>
+                        <span class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500 text-3xl font-extrabold">Registration
+                            Fee: BDT 10,000/-</span>
                         <br>
                         <button type="submit" class="inline-flex text-white bg-indigo-500 border-0 mt-2 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-                            <a target="_self" href="/registration-1.php">Register As A Participant</a></button>
+                            <a target="_self" href="/registration-1.php">Register as a Participant</a></button>
                     </div>
                 </div>
             </div>
