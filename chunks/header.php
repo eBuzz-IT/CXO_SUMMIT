@@ -9,10 +9,10 @@
                  </a>
              </div>
              <div class="header-phone flex flex-col md:order-last sm:order-last">
-                 <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                 <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 nav-txt">
                      <span style="color: black"><i class="fas fa-phone"></i> +880 1404 016 993</span>
                  </a>
-                 <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                 <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 nav-txt">
                      <span style="color: black"><i class="fas fa-phone"></i> +880 1404 016 993</span>
                  </a>
              </div>
@@ -27,13 +27,13 @@
             <div class="pb-5">
 
             <div class="header-buttons">
-                <button class="modal-open transition duration-500 ease-in-out bg-black nav-txt hover:bg-yellow-200 transform hover:-translate-y-1 hover:scale-110 px-3 py-2 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
+                <button class="modal-open transition duration-500 ease-in-out bg-black nav-txt hover:bg-yellow-200 transform hover:-translate-y-1 hover:scale-110 px-3 py-2 mr-2 rounded ring-2 ring-blue-500 ring-opacity-50 font-bold">
                     CXO SUMMIT 2022
                 </button>
-                <button class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-3 py-2 ml-3 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
+                <button class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-3 py-2 ml-3 mr-2 rounded ring-2 ring-blue-500 ring-opacity-50 font-bold">
                     <a href="/registration-1.php">Register as a Participant</a>
                 </button>
-                <button class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-3 py-2 ml-3 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
+                <button class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-3 py-2 ml-3 mr-2 rounded ring-2 ring-blue-500 ring-opacity-50 font-bold">
                     <a href="#panelist">Word of Trustees</a>
                 </button>
             </div>

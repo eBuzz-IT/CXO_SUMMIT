@@ -219,7 +219,7 @@ body.modal-active {
 }
 
 .nav-txt {
-    background: linear-gradient(to right, #240272 0%, #0ab998 100%);
+    background: linear-gradient(to right, #0246da 0%, #0d0d0e 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
