@@ -1,0 +1,86 @@
+[19-Nov-2022 22:15:51 America/New_York] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php:25
+Stack trace:
+#0 /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php(25): getimagesize()
+#1 /home/valoymoc/CXO_SUMMIT_2022/registration-1.php(13): include('/home/valoymoc/...')
+#2 {main}
+  thrown in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[22-Nov-2022 14:31:27 America/New_York] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php:25
+Stack trace:
+#0 /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php(25): getimagesize()
+#1 /home/valoymoc/CXO_SUMMIT_2022/registration-1.php(13): include('/home/valoymoc/...')
+#2 {main}
+  thrown in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[28-Nov-2022 07:13:35 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'valoymoc_cxo.contact_us' doesn't exist in /home/valoymoc/CXO_SUMMIT_2022/backend/contact.php:13
+Stack trace:
+#0 /home/valoymoc/CXO_SUMMIT_2022/backend/contact.php(13): mysqli_query()
+#1 /home/valoymoc/CXO_SUMMIT_2022/chunks/contact_us.php(2): include('/home/valoymoc/...')
+#2 /home/valoymoc/CXO_SUMMIT_2022/page-body/home-body.php(718): include('/home/valoymoc/...')
+#3 /home/valoymoc/CXO_SUMMIT_2022/index.php(15): include('/home/valoymoc/...')
+#4 {main}
+  thrown in /home/valoymoc/CXO_SUMMIT_2022/backend/contact.php on line 13
+[30-Nov-2022 05:48:19 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'valoymoc_cxo.contact_us' doesn't exist in /home/valoymoc/CXO_SUMMIT_2022/backend/contact.php:13
+Stack trace:
+#0 /home/valoymoc/CXO_SUMMIT_2022/backend/contact.php(13): mysqli_query()
+#1 /home/valoymoc/CXO_SUMMIT_2022/chunks/contact_us.php(2): include('/home/valoymoc/...')
+#2 /home/valoymoc/CXO_SUMMIT_2022/page-body/home-body.php(718): include('/home/valoymoc/...')
+#3 /home/valoymoc/CXO_SUMMIT_2022/index.php(15): include('/home/valoymoc/...')
+#4 {main}
+  thrown in /home/valoymoc/CXO_SUMMIT_2022/backend/contact.php on line 13
+[02-Dec-2022 20:09:44 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'valoymoc_cxo.contact_us' doesn't exist in /home/valoymoc/CXO_SUMMIT_2022/backend/contact.php:13
+Stack trace:
+#0 /home/valoymoc/CXO_SUMMIT_2022/backend/contact.php(13): mysqli_query()
+#1 /home/valoymoc/CXO_SUMMIT_2022/chunks/contact_us.php(2): include('/home/valoymoc/...')
+#2 /home/valoymoc/CXO_SUMMIT_2022/page-body/home-body.php(718): include('/home/valoymoc/...')
+#3 /home/valoymoc/CXO_SUMMIT_2022/index.php(15): include('/home/valoymoc/...')
+#4 {main}
+  thrown in /home/valoymoc/CXO_SUMMIT_2022/backend/contact.php on line 13
+[13-Jan-2023 02:02:23 America/New_York] PHP Warning:  Undefined array key "photo" in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 21
+[13-Jan-2023 02:02:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 21
+[13-Jan-2023 02:02:23 America/New_York] PHP Warning:  Undefined array key "photo" in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[13-Jan-2023 02:02:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[13-Jan-2023 02:02:23 America/New_York] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php:25
+Stack trace:
+#0 /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php(25): getimagesize()
+#1 /home/valoymoc/CXO_SUMMIT_2022/registration-1.php(13): include('/home/valoymoc/...')
+#2 {main}
+  thrown in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[20-Jan-2023 20:12:18 America/New_York] PHP Warning:  Undefined array key "photo" in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 21
+[20-Jan-2023 20:12:18 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 21
+[20-Jan-2023 20:12:18 America/New_York] PHP Warning:  Undefined array key "photo" in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[20-Jan-2023 20:12:18 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[20-Jan-2023 20:12:18 America/New_York] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php:25
+Stack trace:
+#0 /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php(25): getimagesize()
+#1 /home/valoymoc/CXO_SUMMIT_2022/registration-1.php(13): include('/home/valoymoc/...')
+#2 {main}
+  thrown in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[20-Jan-2023 20:12:25 America/New_York] PHP Warning:  Undefined array key "photo" in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 21
+[20-Jan-2023 20:12:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 21
+[20-Jan-2023 20:12:25 America/New_York] PHP Warning:  Undefined array key "photo" in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[20-Jan-2023 20:12:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[20-Jan-2023 20:12:25 America/New_York] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php:25
+Stack trace:
+#0 /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php(25): getimagesize()
+#1 /home/valoymoc/CXO_SUMMIT_2022/registration-1.php(13): include('/home/valoymoc/...')
+#2 {main}
+  thrown in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[20-Jan-2023 20:12:34 America/New_York] PHP Warning:  Undefined array key "photo" in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 21
+[20-Jan-2023 20:12:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 21
+[20-Jan-2023 20:12:34 America/New_York] PHP Warning:  Undefined array key "photo" in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[20-Jan-2023 20:12:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[20-Jan-2023 20:12:34 America/New_York] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php:25
+Stack trace:
+#0 /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php(25): getimagesize()
+#1 /home/valoymoc/CXO_SUMMIT_2022/registration-1.php(13): include('/home/valoymoc/...')
+#2 {main}
+  thrown in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[20-Jan-2023 20:13:16 America/New_York] PHP Warning:  Undefined array key "photo" in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 21
+[20-Jan-2023 20:13:16 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 21
+[20-Jan-2023 20:13:16 America/New_York] PHP Warning:  Undefined array key "photo" in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[20-Jan-2023 20:13:16 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
+[20-Jan-2023 20:13:16 America/New_York] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php:25
+Stack trace:
+#0 /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php(25): getimagesize()
+#1 /home/valoymoc/CXO_SUMMIT_2022/registration-1.php(13): include('/home/valoymoc/...')
+#2 {main}
+  thrown in /home/valoymoc/CXO_SUMMIT_2022/backend/reg1.php on line 25
