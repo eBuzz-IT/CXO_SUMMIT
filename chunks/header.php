@@ -5,7 +5,7 @@
          <div class="flex justify-between items-center lg:flex-row md:flex-col sm:flex-col ">
              <div>
                  <a href="/" class="cxo-logo transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                     <img src="./assets/images/gallery/cxo_logo_1.png" class="w-32" alt="">
+                     <img src="./assets/images/gallery/ss23_logo_1.png" class="w-32" alt="">
                  </a>
              </div>
              <div class="header-phone flex flex-col md:order-last sm:order-last">
@@ -70,7 +70,10 @@
                              <img src="../assets/images/banner/banner (5).jpg" alt="">
                              <p class="text-justify text-sm">Join the CXO Summit 2022.
 
-                                 The fourth edition of the CXO Summit is a daylong summit with visionaries from the leading organizations in Bangladesh. It is a combination of panel discussions and networking session to be held on the 3rd December, 2022 at the Radisson Blu Dhaka Water Garden. A total of 24 panelists will be present at the event. There will be a pre-show called "EXPERT EYE-Season 2", a virtual webinar series of 6-8 episodes. Moreover, our flagship journal called "Chief Excellence Officer" will be published and distributed during and after the CXO Summit, which will contain the best industry practices of some of the most prominent companies in Bangladesh. This event is the best platform for professionals who are preparing to move to the next stage in leadership strategy.
+                             The Bangladesh Strategy Summit 2023 is a 2-days long event that will bring together leading minds from business, government, and academia to discuss how to advance economic sustainability in Bangladesh. 
+
+Taking place on 26-27 August, 2023, Radisson Blu Water, the 2-day long summit will act as a platform with the purpose of promoting a sustainable agenda under the theme “Advanced Economic Sustainability.” Bringing together 8 Panels with 48 panelists including industry experts, business leaders, policy makers to focus on key Economic Resilience and Sustainable Development Goals (SDGs), all in order to create a sustainable future. 
+
                              </p>
                              <!-- modal button 1 end -->
                              <div class="flex justify-end pt-2">

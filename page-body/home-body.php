@@ -7,23 +7,23 @@
             <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
                 <!-- Item 1 -->
                 <div class="duration-700 ease-in-out absolute inset-0 transition-all transform -translate-x-full z-10" data-carousel-item="">
-                    <img src="./assets/images/banner/banner (1).jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
+                    <img src="./assets/images/banner/banner (1).png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
                 </div>
                 <!-- Item 2 -->
                 <div class="duration-700 ease-in-out absolute inset-0 transition-all transform translate-x-0 z-20" data-carousel-item="active">
-                    <img src="./assets/images/banner/banner (2).jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
+                    <img src="./assets/images/banner/banner (2).png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
                 </div>
                 <!-- Item 3 -->
                 <div class="duration-700 ease-in-out absolute inset-0 transition-all transform translate-x-full z-10" data-carousel-item="">
-                    <img src="./assets/images/banner/banner (3).jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
+                    <img src="./assets/images/banner/banner (3).png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
                 </div>
                 <!-- Item 4 -->
                 <div class="hidden duration-700 ease-in-out absolute inset-0 transition-all transform" data-carousel-item="">
-                    <img src="./assets/images/banner/banner (4).jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
+                    <img src="./assets/images/banner/banner (4).png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
                 </div>
                 <!-- Item 5 -->
                 <div class="hidden duration-700 ease-in-out absolute inset-0 transition-all transform" data-carousel-item="">
-                    <img src="./assets/images/banner/banner (5).jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                    <img src="./assets/images/banner/banner (5).png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                 </div>
             </div>
             <!-- Slider controls -->
